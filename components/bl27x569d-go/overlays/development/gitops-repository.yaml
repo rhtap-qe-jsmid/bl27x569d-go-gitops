@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: bl27x569d-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/bl27x569d-go-gitops
